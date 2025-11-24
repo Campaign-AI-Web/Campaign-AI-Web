@@ -93,7 +93,7 @@ The **HOW IT WORKS** page explains step by step how Campaign AI operates, from c
 
 ### PRODUCTS  
 The **PRODUCTS** page showcases the various solutions and features Campaign AI provides. It allows users to explore functionalities such as automated campaign creation, manual or AI-driven ad management, smart alerts, and budget control. This section helps potential customers understand how the platform can address specific marketing challenges.  
-👉 https://campaign-ai.com/products
+👉 https://www.campaign-ai.com/our-products-features/
 
 ---
 
