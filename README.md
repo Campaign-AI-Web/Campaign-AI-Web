@@ -60,8 +60,8 @@ Stay informed with real-time notifications for performance changes, budget limit
 
 ## 🖼 Screenshots
 
-_No screenshots available yet._  
-*If you own this project, consider uploading images for better visibility.*
+### 🏠 Home Page
+![Home Page](https://res.cloudinary.com/dcemnnmvq/image/upload/v1763988165/Campaign_AI_Home_Page_nsvn97.png)
 
 ---
 
