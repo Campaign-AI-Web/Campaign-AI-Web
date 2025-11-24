@@ -101,7 +101,3 @@ The **CONTACT US** page allows visitors to reach out to the Campaign AI team for
 👉 https://campaign-ai.com/contact-us
 
 ---
-
-### SIGN IN  
-The **SIGN IN** page provides secure access for registered users to manage their campaigns, monitor performance, adjust bids, and customize ads. This page is the gateway to the full suite of Campaign AI tools, giving users control and transparency over their advertising campaigns.  
-👉 https://campaign-ai.com/sign-in
