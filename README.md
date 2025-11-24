@@ -58,6 +58,13 @@ Stay informed with real-time notifications for performance changes, budget limit
 
 ---
 
+## 🖼 Screenshots
+
+_No screenshots available yet._  
+*If you own this project, consider uploading images for better visibility.*
+
+---
+
 ## 📘 About
 
 Campaign AI is an innovative, AI-powered platform featured on **SaaSBrowser.com** under the **PPC & Ad Campaign Management** category. Designed for businesses, marketers, and agencies of all experience levels, Campaign AI simplifies Google Ads management by combining automation, real-time optimization, and actionable insights in one intuitive interface.
